@@ -1,0 +1,15 @@
+Sobre o JavaScript:
+**PESQUISAR MAIS SOBRE
+- tipagem dinâmica 
+- untyped
+- multiparadigma 
+- ECMAscript - ES6 / ES2015 
+- Linguagem interpretada (vs compilada)
+- não é uma linguagem orientada a objetos 
+
+o que é nodeJS
+- é um interpretador, javascript no backend .
+
+****************************************************************
+
+
